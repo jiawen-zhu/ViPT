@@ -1,0 +1,6 @@
+toy03_indoor
+pigeon05_wild
+bottle03_indoor
+ball16_indoor
+bag04_indoor
+flower03_indoor
