@@ -6,7 +6,7 @@ Official implementation of [**ViPT**](http://arxiv.org/abs/xxx), including model
 [Models & Raw Results](https://pan.baidu.com/s/1ipKVj_CMjJ-u4cJAxXAWnw?pwd=vipt)
 (Baidu Driver: vipt)
 
-<center><img width="80%" alt="" src="assets/abs.png"/></center>
+<center><img width="75%" alt="" src="assets/abs.png"/></center>
 
 :fire::fire::fire: This work proposes ViPT, a new prompt-tuning framework for multi-modal tracking.
 
