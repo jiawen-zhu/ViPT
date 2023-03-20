@@ -6,7 +6,7 @@ Official implementation of [**ViPT**](http://arxiv.org/abs/xxx), including model
 [Models & Raw Results](https://pan.baidu.com/s/1ipKVj_CMjJ-u4cJAxXAWnw?pwd=vipt)
 (Baidu Driver: vipt)
 
-<center><img width="85%" alt="" src="assets/abs.png"/></center>
+<center><img width="70%" alt="" src="assets/abs.png"/></center>
 
 :fire::fire::fire: This work proposes ViPT, a new prompt-tuning framework for multi-modal tracking.
 
@@ -106,7 +106,7 @@ You can also modify paths by these two files:
 Dowmload the pretrained [foundation model](https://drive.google.com/drive/folders/1ttafo0O5S9DXK2PX0YqPvPrQ-HWJjhSy?usp=sharing) (OSTrack) 
 and put it under ./pretrained/.
 ```
-bash tracking/train_vipt.sh
+bash train_vipt.sh
 ```
 You can train models with various modalities and variants by modifying ```train_vipt.sh```.
 
