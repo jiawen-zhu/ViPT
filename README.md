@@ -1,5 +1,5 @@
 # Visual Prompt Multi-Modal Tracking [CVPR2023]
-Official implementation of [**ViPT**](http://arxiv.org/abs/xxx), including models and training&testing codes.
+Official implementation of [**ViPT**](https://arxiv.org/abs/2303.10826), including models and training&testing codes.
 
 [Models & Raw Results](https://drive.google.com/drive/folders/1RCuJjkOalP4-CNicgfdN_A9-K1H3GndI?usp=sharing)
 (Google Driver)
