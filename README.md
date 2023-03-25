@@ -110,7 +110,7 @@ bash train_vipt.sh
 ```
 You can train models with various modalities and variants by modifying ```train_vipt.sh```.
 
-### Evaluation
+### Testing
 #### For RGB-D benchmarks
 [DepthTrack Test set & VOT22_RGBD]\
 These two benchmarks are evaluated using [VOT-toolkit](https://github.com/votchallenge/toolkit). \
@@ -131,7 +131,7 @@ We refer you to [LasHeR Toolkit](https://github.com/BUGPLEASEOUT/LasHeR) for Las
 and refer you to [MPR_MSR_Evaluation](https://sites.google.com/view/ahutracking001/) for RGBT234 evaluation.
 
 
-#### For RGB-E benchmarks
+#### For RGB-E benchmark
 [VisEvent]\
 Modify the <DATASET_PATH> and <SAVE_PATH> in```./RGBE_workspace/test_rgbe_mgpus.py```, then run:
 ```
