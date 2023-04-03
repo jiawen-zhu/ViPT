@@ -6,25 +6,25 @@ Official implementation of [**ViPT**](https://arxiv.org/abs/2303.10826), includi
 [Models & Raw Results](https://pan.baidu.com/s/1ipKVj_CMjJ-u4cJAxXAWnw?pwd=vipt)
 (Baidu Driver: vipt)
 
-<center><img width="70%" alt="" src="assets/abs.png"/></center>
+<center><img width="75%" alt="" src="assets/abs.png"/></center>
 
 :fire::fire::fire: This work proposes ViPT, a new prompt-tuning framework for multi-modal tracking.
 
 - Tracking in RGB + Depth scenarios:
 
 
-  <center><img width="70%" alt="" src="assets/rgbd_demo.gif"/></center>
+  <center><img width="75%" alt="" src="assets/rgbd_demo.gif"/></center>
 
 - Tracking in RGB + Thermal scenarios:
 
 
-  <center><img width="70%" alt="" src="assets/rgbt_demo.gif"/></center>
+  <center><img width="75%" alt="" src="assets/rgbt_demo.gif"/></center>
 
 
 - Tracking in RGB + Event scenarios:
 
 
-  <center><img width="70%" alt="" src="assets/rgbe_demo.gif"/></center>
+  <center><img width="75%" alt="" src="assets/rgbe_demo.gif"/></center>
 
 ## News
 **[Mar 20, 2023]**
@@ -155,4 +155,8 @@ If you find ViPT is helpful for your reseach, please consider citing:
 ## Acknowledgment
 - This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) which is an exellent work.
 - We thank for the [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
+
+## Contact
+If you have any question, feel free to email jiawen@mail.dlut.edu.cn. ^_^
+
 
