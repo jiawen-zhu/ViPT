@@ -141,7 +141,7 @@ We refer you to [VisEvent_SOT_Benchmark](https://github.com/wangxiao5791509/VisE
 
 
 ## Bixtex
-If you find ViPT is helpful for your reseach, please consider citing:
+If you find ViPT is helpful for your research, please consider citing:
 
 ```bibtex
 @inproceedings{ViPT,
