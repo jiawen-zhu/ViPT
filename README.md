@@ -153,7 +153,7 @@ If you find ViPT is helpful for your research, please consider citing:
 ```
 
 ## Acknowledgment
-- This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) which is an exellent work.
+- This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) which is an excellent work.
 - We thank for the [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
 
 ## Contact
