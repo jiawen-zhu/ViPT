@@ -146,7 +146,7 @@ If you find ViPT is helpful for your research, please consider citing:
 ```bibtex
 @inproceedings{ViPT,
   title={Visual Prompt Multi-Modal Tracking},
-  author={Jiawen, Zhu and Simiao, lai and Xin, Chen and Wang, Dong and Lu, Huchuan},
+  author={Jiawen, Zhu and Simiao, lai and Xin, Chen and Dong, Wang and Huchuan, Lu},
   booktitle={CVPR},
   year={2023}
 }
